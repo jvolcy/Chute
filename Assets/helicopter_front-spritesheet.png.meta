@@ -1,31 +1,19 @@
 fileFormatVersion: 2
-guid: 9c76a575adf8148ffb56419f4b70bac2
+guid: bf6305f3f44e6475498826179dca97bd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4743966413976176986
-    second: goose_0
+      213: 4943182826468465476
+    second: helicopter_front-spritesheet_0
   - first:
-      213: -7421270458433202959
-    second: goose_1
+      213: -1954968753242156657
+    second: helicopter_front-spritesheet_1
   - first:
-      213: 9086554706980551868
-    second: goose_2
+      213: -3520155175628004346
+    second: helicopter_front-spritesheet_2
   - first:
-      213: 5288007247635412598
-    second: goose_3
-  - first:
-      213: -8509994155834339631
-    second: goose_4
-  - first:
-      213: 75034735984490450
-    second: goose_5
-  - first:
-      213: 6300782823613779564
-    second: goose_6
-  - first:
-      213: 3659786269373165026
-    second: goose_7
+      213: 2062133436593474918
+    second: helicopter_front-spritesheet_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -139,13 +127,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: goose_0
+      name: helicopter_front-spritesheet_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 165
-        width: 173
-        height: 93
+        x: 8
+        y: 646
+        width: 411
+        height: 144
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,20 +141,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a590f63a154f5d140800000000000000
-      internalID: 4743966413976176986
+      spriteID: 44bd67f2796b99440800000000000000
+      internalID: 4943182826468465476
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goose_1
+      name: helicopter_front-spritesheet_1
       rect:
         serializedVersion: 2
-        x: 217
-        y: 173
-        width: 173
-        height: 85
+        x: 102
+        y: 496
+        width: 224
+        height: 144
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +162,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f41dfe66d9520990800000000000000
-      internalID: -7421270458433202959
+      spriteID: f81530cd64e8ed4e0800000000000000
+      internalID: -1954968753242156657
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goose_2
+      name: helicopter_front-spritesheet_2
       rect:
         serializedVersion: 2
-        x: 452
-        y: 182
-        width: 173
-        height: 76
+        x: 102
+        y: 345
+        width: 224
+        height: 145
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,20 +183,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbcbab50d5de91e70800000000000000
-      internalID: 9086554706980551868
+      spriteID: 604a072b485e52fc0800000000000000
+      internalID: -3520155175628004346
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goose_3
+      name: helicopter_front-spritesheet_3
       rect:
         serializedVersion: 2
-        x: 673
-        y: 182
-        width: 197
-        height: 103
+        x: 100
+        y: 196
+        width: 224
+        height: 144
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,92 +204,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 676fffc1396c26940800000000000000
-      internalID: 5288007247635412598
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goose_4
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 23
-        width: 191
-        height: 121
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1de08d4376d66e980800000000000000
-      internalID: -8509994155834339631
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goose_5
-      rect:
-        serializedVersion: 2
-        x: 217
-        y: 23
-        width: 201
-        height: 101
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2d7bb20e1b39a0100800000000000000
-      internalID: 75034735984490450
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goose_6
-      rect:
-        serializedVersion: 2
-        x: 452
-        y: 23
-        width: 173
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6ec1685890e07750800000000000000
-      internalID: 6300782823613779564
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goose_7
-      rect:
-        serializedVersion: 2
-        x: 673
-        y: 5
-        width: 173
-        height: 93
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2ede6dbb83c2ac230800000000000000
-      internalID: 3659786269373165026
+      spriteID: 66d0c975f6b2e9c10800000000000000
+      internalID: 2062133436593474918
       vertices: []
       indices: 
       edges: []

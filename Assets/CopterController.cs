@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CopterController : MonoBehaviour
 {
-    public float Speed = 0.1f;
+    public float Speed = 1f;
     float Xpos;
 
     // Start is called before the first frame update
